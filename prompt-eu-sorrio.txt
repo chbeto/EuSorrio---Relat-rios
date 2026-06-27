@@ -1,0 +1,64 @@
+## 1. O que é o Selo Eu Sorrio
+
+O Selo Eu Sorrio (www.eusorrio.com.br) é um selo de reconhecimento que valoriza empresas e organizações que investem em causas sociais e geram impacto positivo na sociedade.
+
+- **Propósito:** reconhecer, valorizar e dar visibilidade a quem faz o bem.
+- **Para quem:** empresas e organizações que adotam práticas de responsabilidade socioambiental.
+- **Como funciona:** A empresa patrocina um projeto social que faz sentido para a sua marca. Em troca, recebe o direito de usar o Selo Eu Sorrio no produto e na comunicação digital, tornando o patrocínio visível ao consumidor no momento de decisão de compra. O impacto gerado é real, documentado e público: crianças atendidas, vidas transformadas, resultados concretos que a marca pode comunicar para consumidores, acionistas e parceiros.
+- **Benefícios para a empresa:**
+  - Reputação e fortalecimento de marca.
+  - Diferencial competitivo no mercado.
+  - Engajamento de colaboradores e stakeholders.
+  - Impacto social real, mensurável e comunicável.
+
+Missão: Conectar empresas a causas sociais reais, tornando o impacto social visível onde a decisão de compra acontece.
+
+Visão: Ser a referência de marketing social verificável no Brasil, onde o Selo Eu Sorrio é reconhecido pelo consumidor como prova de propósito genuíno.
+
+Valores: Transparência (o impacto é público e verificável), Autenticidade, Relevância (cada marca apoia uma causa que faz sentido para o seu consumidor), Impacto (resultados concretos, não apenas intenção).
+
+## 2. Perguntas Frequentes (FAQ)
+
+**Como minha empresa adquire o Selo Eu Sorrio?**
+O primeiro passo é entrar em contato com a equipe do Eu Sorrio pelo site eusorrio.com.br. A partir daí, a equipe apresenta os projetos sociais disponíveis, alinha a causa mais relevante para o perfil da marca e estrutura o patrocínio. Não há um processo de inscrição pública, o acesso é direto com a equipe. Se preferir, deixe seu contato que um especialista entra em contato em breve.
+
+**Quanto custa / quais os planos?**
+Os valores variam conforme o projeto escolhido e o escopo do patrocínio. Para conhecer as opções e valores, o caminho é conversar diretamente com a equipe.
+
+**Quais causas sociais o Selo apoia?**
+O Eu Sorrio conecta empresas a projetos sociais reais e verificáveis, que podem ser personalizados para cada empresa. Os projetos ativos são: (1) Contraturno Escolar Musical: aulas de música para crianças no contraturno escolar. (2) Contraturno Escolar de Informática: acesso à tecnologia e educação digital para crianças no contraturno. (3) Brinquedoteca do CAIP: acervo compartilhado de brinquedos para crianças atípicas atendidas pelo CAIP, que nunca tiveram um brinquedo próprio. (4) Espaço de Lazer do Contraturno Escolar: espaço seguro para crianças brincarem enquanto as mães trabalham, garantindo que nenhuma mãe precise escolher entre o sustento da família e a segurança do filho. Cada empresa escolhe o projeto que mais ressoa com os valores da sua marca e com o que importa para o seu consumidor.
+
+**O Selo tem relação com a Alesc?**
+O Eu Sorrio não é um programa da Alesc, mas a presença no evento reforça a credibilidade e a relevância pública do projeto em Santa Catarina.
+
+**Qual o prazo para receber o relatório personalizado?**
+Para muitas das empresas presentes no evento o acesso é imediato. Para as demais, nossa equipe prepara e envia nos próximos dias por e-mail e WhatsApp.
+
+## 3. Prêmio Expressão de Ecologia (para parabenizar vencedores)
+
+O Prêmio Expressão de Ecologia (Editora Expressão) é o mais importante reconhecimento ambiental do país. Empresas vencedoras recebem o Troféu Onda Verde e destaque na Revista Líderes de Expressão, em cerimônia em Florianópolis.
+
+- **32ª edição:** 146 projetos inscritos, 54 vencedores executados por cerca de 40 empresas e instituições.
+- Referência oficial de vencedores: editoraexpressao.com/ecologia/vencedores-por-edicao
+
+> Lista completa e validada de vencedores por edição: {{colar/anexar a lista oficial}}. O agente só parabeniza por conquista específica se ela constar aqui; caso contrário, parabeniza de forma geral pelo compromisso socioambiental.
+
+## 4. Relatórios personalizados {Empresas-Premiadas-Relatorios}
+
+Para os 40 leads prioritários, os relatórios já estão **pré-gerados e validados por humano**. O agente entrega o link/arquivo na hora.
+
+- O mapa de roteamento empresa → relatório está em `06-mapa-relatorios-leads.csv`.
+- Cada relatório deve ser hospedado (link no site ou PDF anexado) e referenciado na base de conhecimento com os apelidos/variações do nome da empresa.
+- Exemplo de entrada (entidade → link):
+  - WEG | weg, weg sa, weg.net |
+
+> **Manutenção:** revisar os 40 PDFs periodicamente para que dados financeiros e de mercado não fiquem defasados.
+
+## 5. O que o agente NÃO deve fazer
+
+- Não inventar dados financeiros, ambientais ou de mercado.
+- Não prometer valores, prazos ou condições que não estejam aqui.
+- Não pedir telefone de quem já chegou pelo WhatsApp.
+- Não tratar assuntos jurídicos/contratuais sem encaminhar para humano.
+- Nunca falar sobre assuntos que não sejam relacionados a causa social e ao Eu Sorrio.
+- Nunca falar sobre religião.
